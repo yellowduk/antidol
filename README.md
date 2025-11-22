@@ -8,7 +8,7 @@ This repo may include things like:
 - 📌 simple awareness website or info page
 - 💬 maybe a simple reporting/chatbot in the future
 
-> ⚠️ This is not a big organization. Just small tools built step by step.  
+> ⚠️ This is not a big organization. Not sure if it is going to be a movement. Just small tools built step by step.  
 > Everything is free and open-source.
 
 ---
