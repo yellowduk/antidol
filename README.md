@@ -32,7 +32,7 @@ Make it easier to **avoid and block judol**, especially for:
 |--------|---------|-------------|-------|
 | 🧪 Testing | 🔗 **Campaign Website** | Awareness + calls to action page | Built via Vibe; preparing deployment |
 | 🧪 Testing | 🖨️ **AI Poster Generator** | Anti-judol posters (consistent message, customizable style) | Vibe-coded draft ready; testing prompt variations |
-| 🧪 Testing | 📐 **Poster Size Adjuster** | Resize to A5–billboard formats while keeping readability | Auto-layout logic generated; testing scaling |
+| 🧪 Testing | 📐 **Poster Size Adjuster** | Resize to any paper size formats while keeping readability to make it easy for volunteers to print | Auto-layout logic generated; testing scaling |
 | 🧪 Testing | 📌 **Volunteer Pinboard** | Users upload printed poster photos to public gallery | Vibe-coded MVP; need moderation rules |
 | 🕒 Not Started | 🔒 **Android Blocker (Lite)** | Simple toggle app using DNS/VPN blocker | Uses public blocklists (e.g., AKBXR) |
 | 🕒 Not Started | 🤖 **Judol Reporting Bot** | Log/report suspicious judi sites/apps | Requires moderation + abuse protection |
