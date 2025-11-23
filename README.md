@@ -34,9 +34,8 @@ Make it easier to **promote anti judol, avoid and block judol**.
 | 🕒 Not Started | 🤖 **Judol Reporting Bot** | Log/report suspicious judi sites/apps | Requires moderation + abuse protection |
 
 
-> 💡 Not everything must be built. We experiment, test interest, and keep it simple.
-> 🧪 Note: The first four items have been built using Google AI Studio’s Vibe Coding.  
-> They are currently in **testing & deployment prep**.*
+> 💡 Not everything must be built. We experiment, test interest, and keep it simple. 
+> 🧪 Note: The first four items have been built using Google AI Studio’s Vibe Coding.
 
 ---
 ## 📆 Development Link
