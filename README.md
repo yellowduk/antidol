@@ -27,7 +27,7 @@ Make it easier to **promote anti judol, avoid and block judol**.
 | Status | Feature | Description | Notes |
 |--------|---------|-------------|-------|
 | 🧪 Testing | 🔗 **Campaign Website** | Awareness + calls to action page | Built via Vibe; preparing deployment |
-| 🧪 Testing | 🖨️ **AI Poster Generator** | Anti-judol posters (consistent message, customizable style) | Vibe-coded draft ready; testing prompt variations |
+| 🧪 Testing | 🖨️ **Poster Generator** | Anti-judol posters (consistent message, customizable style) | Vibe-coded draft ready; testing prompt variations |
 | 🧪 Testing | 📐 **Poster Size Adjuster** | Resize to any paper size formats while keeping readability to make it easy for volunteers to print | Auto-layout logic generated; testing scaling |
 | 🧪 Testing | 📌 **Volunteer Pinboard** | Users upload printed poster photos to public gallery | Vibe-coded MVP; need moderation rules |
 | 🕒 Not Started | 🔒 **Android Blocker (Lite)** | Simple toggle app using DNS/VPN blocker | Uses public blocklists (e.g., AKBXR) |
@@ -35,8 +35,13 @@ Make it easier to **promote anti judol, avoid and block judol**.
 
 
 > 💡 Not everything must be built. We experiment, test interest, and keep it simple.
-> 🧪 *Note: The first four items have been built using Google AI Studio’s Vibe Coding.  
+> 🧪 Note: The first four items have been built using Google AI Studio’s Vibe Coding.  
 > They are currently in **testing & deployment prep**.*
+
+---
+## 📆 Development Link
+
+> Website untuk mempermudah pembuatan poster dan mendukung penyebaran poster: https://github.com/yellowduk/campaign_web
 
 ---
 
