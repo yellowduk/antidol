@@ -16,11 +16,7 @@ This repo may include things like:
 ---
 
 ## 🎯 Goal
-Make it easier to **avoid and block judol**, especially for:
-- individuals
-- families
-- schools
-- value-driven companies
+Make it easier to **promote anti judol, avoid and block judol**.
 
 ---
 
@@ -39,7 +35,7 @@ Make it easier to **avoid and block judol**, especially for:
 
 
 > 💡 Not everything must be built. We experiment, test interest, and keep it simple.
-> > 🧪 *Note: The first four items have been built using Google AI Studio’s Vibe Coding.  
+> 🧪 *Note: The first four items have been built using Google AI Studio’s Vibe Coding.  
 > They are currently in **testing & deployment prep**.*
 
 ---
